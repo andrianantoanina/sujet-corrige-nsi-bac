@@ -5,7 +5,7 @@ Sujet corrigé des épreuves  en nsi au bac
 As the name suggests, this repository lists the subjects and proposal for corrections in NSI at the baccalaureate.
 
 # Author
-Matrix Tera
+Matrix Tera and Miarina
 
 # License
 This repository is under the MIT License.
